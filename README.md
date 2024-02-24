@@ -1,4 +1,12 @@
 # Y86-Simulater
+## Notes
+
+There are three branches in this repo, for diffrent usages.
+
+The frontend is built for pipelined version.
+
+**To use the frontend, clone the *frontline* branch.**
+
 ## Usage
 
 ***For Sequential***
